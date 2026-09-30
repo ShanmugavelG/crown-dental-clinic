@@ -1,0 +1,196 @@
+AI Web Design, Vibe Coding & CreativeResource Library
+Structured reference library • Design • AI Coding • Motion • 3D • UI • SEO • Creative Tools
+A structured collection of the resources supplied in the original notes. Related resources are grouped together while preserving the important tools, references, notes, and links.
+1. AI Website Builders & Website Generation
+Draftly — https://draftly.space/Generate full 3D immersive websites from a single prompt.
+Manus — https://manus.im/
+Manus AI Comprehensive Guide — https://longing-kitten-634.notion.site/Manus-AI-Comprehensive-Guide-341e36d7698e80e8a648e098a5f491cc
+Stitch — https://stitch.withgoogle.com/Use for website/UI prototyping.
+Visily
+Khroma
+Frontly
+Attention
+Uizard
+Galileo
+PrimitiveWebsite layouts.
+MotiffUI/UX design.
+HaikeiBackgrounds and visual assets.
+Realtime ColorsColors and typography.
+2. Website Design Inspiration
+DesignSpells — http://designspells.com
+Mobbin — http://mobbin.com
+Godly — https://godly.website
+DesignVault — http://designvault.io
+Grainient — https://grainient.supply
+Freefaces — https://freefaces.gallery
+Supahero — http://supahero.io
+Awwwards — Motion Websites — https://www.awwwards.com/websites/motion/#google_vignette
+Dribbble — Motion Website — https://dribbble.com/tags/motion-website
+Behance — Motion Website Search — https://www.behance.net/search/projects/Motion%20Website%20wordpress
+Webflow — Motion — https://webflow.com/made-in-webflow/motion?cloneable=true
+Refs Gallery — Motion — https://refs.gallery/category/motion
+Toolfolio — http://toolfolio.io
+Unsection — http://unsection.com
+BestDesignsOfX — https://bestdesignsonx.com/
+Whimsical — Websites for Vibecoders — https://whimsical.com/websites-for-vibecoders-F7CQLpUue1UqdZHxDTur32
+Zennah AI — Jewellery Design — https://www.instagram.com/zennah.ai/
+Pacdora — http://pacdora.com
+Jo Mendes — Emergent 3D Website Assets — https://nomada-toast.notion.site/Jo-Mendes-Emergent-3D-website-Assets-34bdd86f735d809db0a1ff46c2907f1d
+Jo Mendes — Google Maps Emergent — https://app.notion.com/p/nomada-toast/Jo-Mendes-Google-Maps-Emergent-372dd86f735d80338a3adda7fa5a94ba
+3. Motion Design & Animation
+Motionsites — https://motionsites.ai/Animated UI hero sections and motion website references.
+Motion — https://motion.dev/
+Motion — Zajno — https://motion.zajno.com/
+Motion App — https://motionapp.com/
+Motion Elements — https://www.motionelements.com/
+Jitter — Website Templates — https://jitter.video/templates/websites/
+Animations.dev — https://animations.dev/
+Anime.js — http://anime.js
+GSAP — https://github.com/greensock/GSAP
+Lenis — https://github.com/darkroomengineering/lenisSmooth scrolling.
+Vanta — https://github.com/tengbao/vantaInteractive / animated backgrounds.
+MetalForge — Loading AI Animations — https://metalforge.xyz/
+4. 3D, Shaders & Visual Effects
+Hitem3D — http://hitem3.ai
+ThreeUI — https://threeui.comCopy-ready 3D and UI components.
+ThreeUI quick start: 1) Browse a hero section, effect, or template. 2) Tweak props such as fonts and colors. 3) Copy the prompt, code, or SKILL.md. 4) Paste it into Claude Code, Cursor, or Codex.
+Shaders — http://shaders.com
+Ls.graphics — http://ls.graphics
+ContentCore — http://contentcore.xyz
+Aesthetic Effects & Prompts — https://bumpy-xenon-7ca.notion.site/Aesthetic-effects-Prompts-3ba46861310e8039b8ebcff9b72deddc
+Figma — Parallel X EffectReference noted in the original resource list.
+5. UI Components & Design Systems
+React Bits — https://github.com/DavidHDev/react-bits
+Kokonut UI
+Bklit UI
+Smooth UI — https://smoothui.dev/
+Bencho — https://bencho.dev/
+Amicro — Dither Charts — https://amicro.vercel.app/dither-charts
+50 Free UI Components — https://docs.google.com/document/d/1l9XoI28XauA3fLgVHsWoSdZvB1Bz9sgiG55keSX70H4/mobilebasic
+Preline
+Blank
+Craft
+Moon
+Base
+Flowbite
+6. Color, Typography & Visual Design
+Rich Black Alternatives
+Rich Black#0A0A0A
+Charcoal#192126
+Onyx#2B2E2F
+Jet#262525
+Eerie Black#1B1B1B
+Raisin Black#242124
+60–30–10 Color Rule
+60% — background / dominant color30% — contrasting content / secondary color10% — primary brand / accent color
+The rule is intended to help structure visual hierarchy and guide the viewer's attention toward important elements.
+Color Palette Fixer — https://thecolorpalettestudio.com/products/color-palette-fixer
+7. AI Website Production Workflow
+Inspiration → Prototype → Visual Assets → Build → UI Components → Animation → Images/Media → Video/Marketing → SEO → Production
+Stitch → Claude Code
+Stitch — https://stitch.withgoogle.com/Prototype the UI.
+Stitch MCP / Claude Code Config Prompt — https://shard-vole-c98.notion.site/Stitch-MCP-Claude-Code-Config-Prompt-3507f8611d9f807a8df0fa670595afcf
+Viktor Oddy — Videos — https://www.youtube.com/@ViktorOddy/videos
+Claude Code + Nano Banana 2 + Kling 3.0 — https://www.youtube.com/watch?v=ZfYvv-0l9NA
+8. Claude Code Resources
+Claude Code — Google Doc — https://docs.google.com/document/d/1ALbE6jcTl76BAtWqGBqnr0yxU1lQlw7HoI7rGx5Rjhg/edit?usp=sharing
+Claude Design — Anthropic Labs — https://www.anthropic.com/news/claude-design-anthropic-labs
+Claude Tag — https://www.anthropic.com/news/introducing-claude-tag
+Main Claude Skillsclaude-mern • taste-skill • impeccable • design-motion-principles
+Claude Token Optimization SkillsCavemen • Morph • Codeburn
+Claude Code Command Concepts
+/godmodeAggressive, powerful max mode
+/devilOpposite views of your view
+/10xRewrites anything 10× sharper
+/pitch30-second investor/client pitch
+/ghostHuman-like response
+/compareSide-by-side analysis
+/scoutFind risks and blind spots
+/artifactsBuild live apps in chat
+/oodaComplex code problem solving
+/critiqueImprove and find faults
+/explainlikeim5Super-clear explanation
+/briefShortest, no-fluff answer
+/teacherMentor / debate
+Claude Code Skills — Emil Kowalski / Impeccable / Taste Skill
+Remotion Claude Code Plugin — https://www.remotion.dev/docs/ai/claude-code-plugin
+9. AI Website Cloning, MCP & Developer Repositories
+AI Website Cloner Template — https://github.com/JCodesMore/ai-website-cloner-template
+Graphify — https://github.com/Graphify-Labs/graphify
+MCP Market — http://mcpmarket.com
+Atoms — https://atoms.dev/
+Atoms Website Scroll Guide — https://app.notion.com/p/nomada-toast/Jo-Mendes-Atoms-website-scroll-guide-38bdd86f735d8001b776ea6bf97eb3c5
+Record and Replay Concept in Codex
+21st.dev / Prompt GPT reference — https://vosu.ai/prompt-gpt?ref=uunPS
+Prompt GPT — Google Doc — https://docs.google.com/document/d/1rd_ieKI6gMAJzOfdiut-VzL-r4exJCbdmJ_8Vwnv1QI/mobilebasic
+10. SEO & Website Launch
+Google Search ConsoleTells Google your site exists.
+Bing Webmaster ToolsBing search webmaster resource.
+SitemapHelps search engines crawl your site properly.
+IndexNowPings search engines when you publish.
+Open Graph tagsog:title • og:description • og:image • og:url
+SEO principle from the notes: SEO isn't magic. It's a checklist.
+SEO / GEO Tracker — https://vibha-ramprakash.github.io/seo-geo-tracker/
+11. AI Video, Avatars & Content Creation
+HeyGenAI avatar, script, voice, Tamil voice, lip sync and voice cloning workflow referenced in the notes.
+Claude CodeUsed for actual website building / coding screen recordings.
+CapCut / PremiereUsed to combine avatar footage and screen recordings.
+Luma Labs — https://auth.lumalabs.ai/sign-up
+Higgsfield AIAI video generator / filmmaking resource; Seedance 2.0 and related keywords are noted.
+Original YouTube Reference — https://www.youtube.com/watch?v=Zl-MS9TY8_w&t=4s
+12. AI Advertising & Creative Generation
+Zeely AI — http://app.zeely.ai
+Acquisition.ai — http://acquisition.aiAd creator.
+AI Ad Creation Notion Reference — https://app.notion.com/p/I-Used-to-Wait-Two-Weeks-for-One-Ad-Now-I-Make-a-Winning-One-in-About-Five-Minutes-From-Just-a-Prod-38bb58cc01c380eca571d05c085138e3
+13. Graphic Design & Creative Assets
+Endless Tools — http://endlesstools.io
+Antii — http://antii.work
+Magic Animator — http://magicanimator.com
+Neurascapes — http://neurascapes.com
+Debabratadutta — Free Assets — https://debabratadutta.in/free-assets
+How to Design With AI — Notion — https://app.notion.com/p/How-to-Design-With-AI-by-Raha-3c3da31058bf813191f4cca17c98a827
+AI Won't Replace Designers — eBook — https://getvik.com/store/surajdsgn/product/aidesign
+14. Image Processing
+Sharp.jsImage compression / processing.
+Node Image Processing Repository — https://github.com/node-briks/image-processing
+15. Automation & Agentic Systems
+n8n Full Course — https://m.youtube.com/watch?v=2GZ2SNXWK-c&t=11773s
+Cloudflare Open Source AppsReference from the original notes.
+Strawberry — Self-Driving Browser ConceptAI companions that can click, type, search and complete tasks inside browser tabs.
+Agentic Inbox by Cloudflare — https://globalaiforce.com/agentic-inbox-by-cloudflare-how-to-install-and-set-up-2026-guide/
+16. Other Tools & References
+Pi AI — http://pi.ai
+Spotify XIRP — https://xirp.spotify.com/
+Toolfolio — http://toolfolio.io
+Unsection — http://unsection.com
+Screendesign
+Kombai — http://kombai.com
+Design Engineers — http://designengineers.io
+Sharp.js / Image ProcessingIncluded again here as a practical frontend/backend utility reference.
+Search Orbs — Jakub Antalik GitHubSearch term recorded in the notes.
+Claude Mythos
+17. Reference Documents & Resource Collections
+Google Drive Resource Folder — https://drive.google.com/drive/mobile/folders/1UtMYw_51uVO37V_39qzzVo4h-P4wn1GM
+Google Drive File — https://drive.google.com/file/d/1XkUNlN8RJBXuYMt94gk8Cu7h8mPUf_QM/view
+Heyzine Flipbook — https://heyzine.com/flip-book/60f0e09c13.html
+Summit Wraps & Graphics AI Playbook — https://summitwrapsandgraphics.com/ai-playbook/
+Brycen Wood Playbook — https://brycenwood.com/playbook/
+Tenfold Marketing Guide — https://guides.tenfoldmarketing.com/optin
+18. Miscellaneous / Items to Investigate
+virtualstudiox.inPersonal note in the source: 'Scam website — I lost ₹299.'
+Ext-Link reference — https://ext-link.com/5y7pck
+Google Maps Emergent reference — https://app.notion.com/p/nomada-toast/Jo-Mendes-Google-Maps-Emergent-372dd86f735d80338a3adda7fa5a94ba
+Cool Loading AI Animations — https://metalforge.xyz/
+Whimsical Websites for Vibecoders — https://whimsical.com/websites-for-vibecoders-F7CQLpUue1UqdZHxDTur32
+19. Recommended Master Workflow
+1. ResearchMobbin, Godly, Awwwards, Dribbble, Behance, DesignVault
+2. DesignFigma, Stitch, Motiff, Visily, Uizard, Galileo
+3. AssetsHaikei, Pacdora, ThreeUI, Neurascapes, Shaders
+4. BuildClaude Code, Manus, Draftly, Cursor, Codex
+5. ComponentsReact Bits, Smooth UI, Kokonut UI, Flowbite, Preline
+6. MotionGSAP, Lenis, Motion.dev, Anime.js, Vanta, Motionsites
+7. MediaLuma, Higgsfield, HeyGen, Kling, Nano Banana
+8. MarketingZeely, Acquisition.ai
+9. SEOSearch Console, Bing Webmaster Tools, Sitemap, IndexNow, Open Graph
+10. OptimizeSharp.js, responsive design, performance, accessibility
+11. LaunchProduction build, SEO validation, social previews and final QA
